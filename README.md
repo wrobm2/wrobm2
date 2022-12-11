@@ -4,6 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+wrobm2@gmail.com
 <a href="https://instagram.com/wrobm2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wrobm2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/wrobm2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wrobm2" height="30" width="40" /></a>
 <a href="https://discord.gg/wrobm2#6429" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wrobm2#6429" height="30" width="40" /></a>
